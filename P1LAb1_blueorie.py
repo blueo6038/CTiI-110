@@ -1,0 +1,8 @@
+CTI 110
+P1LAB1
+Orie Blue
+2/5/26
+practice Python program
+
+name = "bob"
+print('Nice to meet you")
